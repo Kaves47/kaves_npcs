@@ -24,11 +24,3 @@ Citizen.CreateThread(function()
 				SetBlockingOfNonTemporaryEvents(npc, true)
 			end
 end)
-
-
-
-
-
-
-
-
